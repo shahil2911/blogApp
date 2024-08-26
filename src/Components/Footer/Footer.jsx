@@ -143,7 +143,7 @@ function Footer() {
       <div className='flex items-center justify-center'>
         <div className='mt-6 border-t-2 border-t-white/50 pt-8 px-0 md:p-8 md:pb-2 w-[90%]  flex justify-evenly lg:justify-end gap-7'>
           <button
-          onClick={()=>{navigate("https://github.com/priyanshu1947")}}
+          onClick={()=>{navigate("https://github.com/shahil2911")}}
             className=" w-40 group flex justify-center items-center gap-2 group-hover:before:duration-500 group-hover:after:duration-500 after:duration-500 hover:border-neutral-900 duration-500 hover:duration-500 underline underline-offset-2 hover:underline hover:underline-offset-4 origin-left hover:decoration-2 hover:text-neutral-300 relative bg-neutral-900 px-4 py-4 border text-left text-gray-50 text-base font-bold rounded-lg overflow-hidden after:absolute after:z-10 after:w-12 after:h-12 after:content[''] after:bg-sky-900 after:-left-8 after:top-8 after:rounded-full after:blur-lg hover:after:animate-pulse"
           >
             <svg
@@ -165,7 +165,7 @@ function Footer() {
           </button>
 
           <button
-          onClick={()=>{navigate("https://www.linkedin.com/in/priyanshu-kumar-b310721b5/")}}
+          onClick={()=>{navigate("https://www.linkedin.com/in/shahil-choudhary-917300203/")}}
             className="w-40 group flex justify-center items-center gap-2 group-hover:before:duration-500 group-hover:after:duration-500 after:duration-500 hover:border-neutral-900 duration-500 hover:duration-500 underline underline-offset-2 hover:underline hover:underline-offset-4 origin-left hover:decoration-2 hover:text-neutral-300 relative bg-neutral-900 px-4 py-4 border text-left text-gray-50 text-base font-bold rounded-lg overflow-hidden after:absolute after:z-10 after:w-12 after:h-12 after:content[''] after:bg-sky-900 after:-left-8 after:top-8 after:rounded-full after:blur-lg hover:after:animate-pulse"
           >
             <svg 
